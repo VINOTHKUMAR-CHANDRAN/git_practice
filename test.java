@@ -9,6 +9,7 @@ public class test {
         System.out.println("Welcome feature added");
         System.out.println("Main branch update");
         System.out.println("Profile feature");
+        System.out.println("Learning git stash");
     }
     
 }
